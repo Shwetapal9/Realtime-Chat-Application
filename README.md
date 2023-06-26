@@ -12,3 +12,9 @@ User will get notified whosoever joins
 <img width="500" alt="image" src="https://github.com/Shwetapal9/Realtime-Chat-Application/assets/51901918/305f44a2-ef12-436a-87ee-d0e3fc393ad1">
 <img width="500" alt="image" src="https://github.com/Shwetapal9/Realtime-Chat-Application/assets/51901918/1e68626c-de58-4ff1-9d06-ea51dc36fa6b">
 
+Dark Mode & Light Mode
+<img width="500" alt="image" src="https://github.com/Shwetapal9/Realtime-Chat-Application/assets/51901918/7605d7e4-50aa-411c-8edf-4c9b720ce06c">
+<img width="500" alt="image" src="https://github.com/Shwetapal9/Realtime-Chat-Application/assets/51901918/79279d5b-a100-4ce4-8aaf-574463637505">
+
+
+
